@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan Dhiyad</h1>
+<h1 align="center">Hi 👋, I'm Kiran Dhiyad</h1>
 <h3 align="center">A passionate Android developer from India 🇮🇳 who like to create Package | Plugin | Libraries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karandhiyad&label=Profile%20views&color=0e75b6&style=flat" alt="karandhiyad" /> </p>
